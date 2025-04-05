@@ -1,0 +1,3 @@
+KILL = 3
+ASISTENCIA = 1
+MUERTE = -1
